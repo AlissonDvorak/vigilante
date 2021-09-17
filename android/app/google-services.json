@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269076856577",
+    "project_id": "vigilante-40685",
+    "storage_bucket": "vigilante-40685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269076856577:android:7538817bd42240d191e500",
+        "android_client_info": {
+          "package_name": "br.com.dvorak.vigilate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269076856577-a4femgcrljbm2m7digiitkpntqunlolo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.dvorak.vigilate",
+            "certificate_hash": "6afff0568b0d021adc300a3ce47ad785b1fb6138"
+          }
+        },
+        {
+          "client_id": "269076856577-ege2kiruapvrdci27ho9gq1kq8p3l8fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQK54SZGd-RURHTlA8JOf_Em-CiN8ph3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269076856577-ege2kiruapvrdci27ho9gq1kq8p3l8fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
